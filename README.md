@@ -1,6 +1,6 @@
 # raytracer-raymarcher
 A custom raytracer combined with a raymarcher to create cool scenes and infinite objects with depth of field implemented.<br>
-Currently only cpu support is implemented!
+Currently only CPU support is implemented!
 
 ## Some examples
 <div align="center">
